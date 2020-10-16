@@ -1,0 +1,2 @@
+rootProject.name='getInn'
+include ':app'
